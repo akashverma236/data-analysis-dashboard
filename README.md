@@ -7,6 +7,9 @@ This project is based on sales data analysis using Microsoft Excel.
 The goal is to understand sales trends, customer behavior, and product
 performance using basic Excel analysis techniques.
 
+https://github.com/akashverma/Sales-Excel-Project/blob/main/README.md
+
+
 ## Dataset
  Sample sales data
  Includes order date, product category, sales, quantity,
