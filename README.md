@@ -7,8 +7,7 @@ This project is based on sales data analysis using Microsoft Excel.
 The goal is to understand sales trends, customer behavior, and product
 performance using basic Excel analysis techniques.
 
-https://github.com/akashverma236/vrinda-store-data-analyst-project/blob/main/README.md
-
+<a href="https://github.com/akashverma236/vrinda-store-data-analyst-project/blob/main/README.md/Vrinda Store Data Analysis.xlsx">Dataset</a>
 
 
 ## Dataset
